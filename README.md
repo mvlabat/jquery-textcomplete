@@ -1,3 +1,5 @@
+**This fork contains some fixes for ContentEditable. Check the commits in master to see what's done.**
+
 jquery-textcomplete is no longer maintained. Please use [yuku-t/textcomplete](https://github.com/yuku-t/textcomplete) instead.
 
 # Autocomplete for Textarea
